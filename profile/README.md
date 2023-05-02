@@ -10,7 +10,7 @@ Such as:<br>
 -> export/import maps with json to store or share maps with ease<br>
 
 ### Links
-Discord: https://discord.com/invite/3f72WZJN6Z
+Discord: https://discord.com/invite/3f72WZJN6Z<br>
 Docs: https://remap.ayezee.com
 
 ### Useful Information
