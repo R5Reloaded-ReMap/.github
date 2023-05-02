@@ -9,8 +9,9 @@ Such as:<br>
 -> ability to create ziplines, buttons, doors, lootbins and more<br>
 -> export/import maps with json to store or share maps with ease<br>
 
-### Installation
-https://docs.r5reloaded.com/en/Unity-map-editor-install
+### Links
+Discord: https://discord.com/invite/3f72WZJN6Z
+Docs: https://remap.ayezee.com
 
 ### Useful Information
 - Do not rename any of the prefabs. this will break them
