@@ -19,11 +19,6 @@ Docs: https://remap.ayezee.com
 - You can not import custom models. Only models found ingame will work.
 - ReMap comes with 99% of the models found in Apex Legends Season 3.
 
-### ScreenShots
-![image](https://user-images.githubusercontent.com/18438498/209262846-d1bf369b-550d-473d-88a7-f50fd39072c1.png)
-![image](https://user-images.githubusercontent.com/18438498/209262915-41b21ac1-d99e-4182-95eb-afb94de03f12.png)
-![image](https://user-images.githubusercontent.com/18438498/209262932-e7a1948a-e817-44f0-89c7-24f7cebfd2cd.png)
-
 ### Credits
 AyeZee#6969<br>
 Julefox#0050
