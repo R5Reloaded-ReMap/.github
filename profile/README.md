@@ -1,24 +1,21 @@
 # ReMap
-### What is ReMap?
-ReMap is a map making tool made in unity for R5Reloaded. This allows you to make prop based maps easily.<br>
-ReMap contains a bunch of tools to make prop map making as easy as possible.<br>
-Such as:<br>
--> r5squirrel generation<br>
--> datatable generation<br>
--> .ent generation<br>
--> ability to create ziplines, buttons, doors, lootbins and more<br>
--> export/import maps with json to store or share maps with ease<br>
 
-### Links
-Discord: https://discord.com/invite/3f72WZJN6Z<br>
-Docs: https://remap.ayezee.com
+ReMap is a standalone Windows 3D map editor for Apex Legends R5 modding, compatible with **R5Reloaded** and **R5Flowstate**.
 
-### Useful Information
-- Do not rename any of the prefabs. this will break them
-- Only use models located in "Prefabs/". Using any other models will not work
-- You can not import custom models. Only models found ingame will work.
-- ReMap comes with 99% of the models found in Apex Legends Season 3.
+## Features
 
-### Credits
-AyeZee#6969<br>
-Julefox#0050
+- Search, preview, place, group, and transform in-game models.
+- Create ziplines, ziprails, doors, jump pads, triggers, panels, cameras, and other gameplay objects.
+- Organize maps with a hierarchy, multi-selection, reusable assemblies, and undo/redo.
+- Export `.nut` scripts and optional native loose `.ent` maps.
+- Rebuild the active map directly from ReMap.
+- Save and share portable ReMap projects.
+
+## Links
+
+- [ReMap on GitHub](https://github.com/R5Reloaded-ReMap/ReMap)
+- [Join the Discord](https://discord.com/invite/3f72WZJN6Z)
+
+## Credits
+
+Created by Zee and Julefox, with contributions from the Apex Legends modding community.
